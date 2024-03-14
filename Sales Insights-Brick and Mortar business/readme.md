@@ -1,0 +1,1 @@
+This repository hosts a Power BI dashboard designed to provide comprehensive insights into the sales trends of AtliQ hardware goods, a brick and mortar business. The dashboard leverages sales data to analyze key metrics, trends, and patterns, enabling stakeholders to make data-driven decisions to optimize sales performance and enhance business strategies.
