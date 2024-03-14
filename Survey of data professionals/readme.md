@@ -1,0 +1,1 @@
+This repository contains a Power BI dashboard designed to analyze survey data collected from data professionals. The survey focuses on various aspects such as demographics, programming languages, entry level difficulty and more. The dashboard provides interactive visualizations and insights to understand the responses and trends within the dataset.
